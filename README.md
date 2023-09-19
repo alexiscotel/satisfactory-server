@@ -46,7 +46,7 @@ wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm
 ./sfserver install
 ```
 
-### Configure game server
+### Configure port forwarding
 
 ```sh
 firewall-cmd --add-port=7777/udp --permanent && firewall-cmd --add-port=15777/udp --permanent && firewall-cmd --add-port=15000/udp --permanent
