@@ -1,4 +1,4 @@
-# srv-satisfactory
+# Satisfactory Game Server
 
 ![Satisfactory](https://img.shields.io/badge/Satisfactory-000000)
 ![Game](https://img.shields.io/badge/Game-000000)
@@ -11,7 +11,7 @@
 
 Satisfactory Game Server. Based on a Debian 11 distro, install and configure linuxGSM in order to run Satisfactory instance
 
-## Ready to use
+## 🚀 Ready to use
 
 Use the script to automatically install and configure the server
 
@@ -19,7 +19,7 @@ Use the script to automatically install and configure the server
 bash init.sh
 ```
 
-## Documentation
+## 📚 Documentation
 
 ### Install dependencies
 
@@ -60,13 +60,3 @@ firewall-cmd --list-all
 ```sh
 ./sfserver start
 ```
-
-
----
-
-
-<img src="https://avatars.githubusercontent.com/u/12951899?v=4" alt="alexiscotel" width="5%" />
-
-**Alexis Cotel**
-* [alexiscotel.fr](alexiscotel.fr)
-* GitHub: [@alexiscotel](https://github.com/alexiscotel)
